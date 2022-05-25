@@ -14,3 +14,5 @@ I like to visit restaurants and go for a walk in the countryside, I love the mov
 GitHub for dummies
 The Essetial Guide HTML y JS
 Building Telegram Bots
+## Skill.
+Html,Css,Js,Git and GitHub
