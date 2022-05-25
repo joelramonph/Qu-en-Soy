@@ -10,3 +10,7 @@ Hi Everyone! I am Joel Parra, I live in Venezuela.There are several things that 
 I worked as an Air Controller and since 2013 I changed my career to the area of programming and educational robotics. Currently leading a Programming Club and learning about web development. 
 ## My Hobbies.
 I like to visit restaurants and go for a walk in the countryside, I love the movies, besides riding a bicycle.
+## Favorite Book.
+GitHub for dummies
+The Essetial Guide HTML y JS
+Building Telegram Bots
